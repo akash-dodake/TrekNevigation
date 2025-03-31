@@ -1,0 +1,26 @@
+## Compass Night: Privacy policy
+
+Welcome to the Compass Night app for Android!
+
+This is an open source Android app developed by Akash Dodake. The source code is available on GitHub.
+
+I am not collecting any users data as per my knowledge.
+
+### Data collected by the app
+
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. 
+
+### Explanation of permissions requested in the app
+
+The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
+
+https://github.com/akash-dodake/TrekNevigation/blob/main/TrekNevigation/app/src/main/AndroidManifest.xml
+
+<br/>
+
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+
+Yours sincerely,  
+Akash Dodake  
+Maharashtra, India.  
+inspicomtech@gmail.com
